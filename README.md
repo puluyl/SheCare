@@ -1,4 +1,4 @@
-#SHECARE APP PRIVACY POLICY
+# SHECARE APP PRIVACY POLICY
 
 SheCare App cares about your privacy. This privacy policy (“Privacy Policy”) describes the types of information that is collected by shecare App and how it is used. The SheCare App only functions in conjunction with the Pulu miniscope.
 Your continued use of our products and services, as well as the application of the SheCare App, constitutes your consent to the terms of this Privacy Policy and any updates. If you do not agree to the Terms and Conditions or this Privacy Policy, please do not use the App.
